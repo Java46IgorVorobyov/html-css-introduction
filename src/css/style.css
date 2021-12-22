@@ -1,0 +1,14 @@
+
+
+.aligncenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+.img {
+width: 12.5vmin;
+height: 50%;
+text-align: left;
+
+}
