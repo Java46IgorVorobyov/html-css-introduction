@@ -2,11 +2,8 @@
 
 .aligncenter {
     display: flex;
-    flex-direction: column;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
-    margin-left: auto;
-    margin-right: auto;
   
 }
 .img {
